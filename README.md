@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+![Vuex](VueJS_cover.png?raw=true "Vuex")
 
 1. Install dependencies.
 	```shell
